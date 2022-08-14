@@ -1,1 +1,1 @@
-# Decision-Tree-Using-Entropy
+# Decision-Tree
